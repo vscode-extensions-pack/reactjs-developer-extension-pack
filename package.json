@@ -1,0 +1,13 @@
+{
+  "name": "reactjs-developer-extension-pack",
+  "displayName": "reactjs-developer-extension-pack",
+  "description": "VS Code Extensions for React Js Developer",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": []
+}
