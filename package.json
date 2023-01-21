@@ -1,13 +1,34 @@
 {
   "name": "reactjs-developer-extension-pack",
-  "displayName": "reactjs-developer-extension-pack",
+  "displayName": "ReactJs Developer Extension Pack",
   "description": "VS Code Extensions for React Js Developer",
   "version": "0.0.1",
+  "publisher": "sumanta",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.74.0"
   },
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": []
+  "extensionPack": [
+    "dsznajder.es7-react-js-snippets",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "xabikos.JavaScriptSnippets",
+    "ms-vscode.vscode-typescript-next",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vscode-extensions-pack/reactjs-developer-extension-pack.git"
+  },
+  "keywords": [],
+  "author": "Sumanta Kabiraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vscode-extensions-pack/reactjs-developer-extension-pack/issues"
+  },
+  "homepage": "https://github.com/vscode-extensions-pack/reactjs-developer-extension-pack#readme"
 }
